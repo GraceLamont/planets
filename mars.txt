@@ -1,2 +1,3 @@
 Adding one line of text, very important.
 This is a second line of text which I am adding by editing the file...
+Adding a third line of text and attempting to stage and commit
